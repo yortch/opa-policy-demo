@@ -1,0 +1,7 @@
+{
+    "input": {
+        "identity": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6ImFkbWluIiwiaWF0IjoxNTE2MjM5MDIyfQ.09eTH4lSx3ssF2w8IwYG_Q2djNsi9m8SCvTzobxqqGw",
+        "path": "policy",
+        "method": "POST"
+    }
+}
